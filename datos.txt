@@ -1,3 +1,10 @@
 Nombre y Apellido : Luciano Perez Larraburu
 ip : xxxxxxxx
 hora : xx:xx
+
+GAMMA: 
+nombre y apellido: Facundo Pico
+ip: Direcci▒n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+
+hora:Tue Oct 29 22:15:01     2024
+
