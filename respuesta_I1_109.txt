@@ -15,3 +15,5 @@ b.- Si
 Beta
 c.- Si
 d.- Discord
+Gamma
+e.- atravez de los nombres de los commits, y de la solapa de proyects.
