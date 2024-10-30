@@ -1,0 +1,14 @@
+Robin Choqueticlla
+Luciano Perez
+Facundo Pico
+
+
+a.- Alfa ve los datos que cargaron los demas en su repositorio?
+b.- Si Alfa agrega un archivo los demas integrantes lo ven?
+c.- Si Beta agrega un archivo los demas integrantes lo ven?
+d.- De que forma se comunicaron ustedes?
+e.- Cual es la mejor forma de comunicarse entre ustedes dentro de github?
+
+Alfa
+a.- Si
+b.- Si
