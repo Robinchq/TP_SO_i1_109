@@ -12,3 +12,6 @@ e.- Cual es la mejor forma de comunicarse entre ustedes dentro de github?
 Alfa
 a.- Si
 b.- Si
+Beta
+c.- Si
+d.- Discord
